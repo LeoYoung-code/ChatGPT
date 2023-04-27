@@ -63,24 +63,24 @@ export default function Header() {
                   ChatGPT
                 </span>
                 <span class="ml-1 font-extrabold text-slate-7 dark:text-slate">
-                  Vercel
+                  Leo
                 </span>
                 <a
                   class="ml-2 <sm:hidden"
-                  href="https://github.com/ourongxing/chatgpt-vercel"
+                  href="https://github.com/LeoYoung-code/ChatGPT"
                 >
                   <img
                     alt="GitHub forks badge"
-                    src="https://img.shields.io/github/stars/ourongxing/chatgpt-vercel?logo=github"
+                    src="https://img.shields.io/github/stars/LeoYoung-code/ChatGPT?logo=github"
                   />
                 </a>
                 <a
                   class="ml-2"
-                  href="https://github.com/ourongxing/chatgpt-vercel/fork"
+                  href="https://github.com/LeoYoung-code/ChatGPT/fork"
                 >
                   <img
                     alt="GitHub forks badge"
-                    src="https://img.shields.io/github/forks/ourongxing/chatgpt-vercel?logo=github"
+                    src="https://img.shields.io/github/forks/LeoYoung-code/ChatGPT?logo=github"
                   />
                 </a>
               </>
